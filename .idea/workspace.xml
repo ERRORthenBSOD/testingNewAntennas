@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0243d68-edc5-4f87-bb01-255dfe1a3dc9" name="Default Changelist" comment="" />
+    <list default="true" id="a0243d68-edc5-4f87-bb01-255dfe1a3dc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,10 +19,10 @@
     <session id="365315331">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -28,8 +32,9 @@
           <entry key="ico" value="1" />
           <entry key="jpg" value="3" />
           <entry key="js" value="18" />
-          <entry key="json" value="3" />
+          <entry key="json" value="4" />
           <entry key="png" value="2" />
+          <entry key="stackdump" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -37,8 +42,9 @@
           <entry key="CSS" value="11" />
           <entry key="HTML" value="7" />
           <entry key="Image" value="6" />
-          <entry key="JSON" value="3" />
+          <entry key="JSON" value="4" />
           <entry key="JavaScript" value="18" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -46,12 +52,14 @@
           <entry key="css" value="257" />
           <entry key="html" value="60" />
           <entry key="js" value="996" />
+          <entry key="json" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="257" />
           <entry key="HTML" value="60" />
+          <entry key="JSON" value="10" />
           <entry key="JavaScript" value="996" />
         </counts>
       </usages-collector>
@@ -67,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="35112">
               <caret line="1672" column="1" selection-start-line="1672" selection-start-column="1" selection-end-line="1672" selection-end-column="1" />
             </state>
           </provider>
@@ -76,20 +84,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/my.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-520">
+            <state relative-caret-position="2100">
               <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2022">
-              <caret line="685" column="36" lean-forward="true" selection-start-line="685" selection-start-column="36" selection-end-line="685" selection-end-column="36" />
+            <state relative-caret-position="535">
+              <caret line="685" column="36" selection-start-line="685" selection-start-column="36" selection-end-line="685" selection-end-column="36" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -129,6 +146,9 @@
       <dir>C:\Users\Atmospheric_b-10\WebstormProjects\NEW PROJECT FOR WWF\selling_antennas\src\styles</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -145,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/components/header.js" />
         <option value="$PROJECT_DIR$/src/styles/my.css" />
         <option value="$PROJECT_DIR$/src/components/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -176,6 +197,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1049" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -257,12 +279,13 @@
       <option name="presentableId" value="Default" />
       <updated>1537090415535</updated>
       <workItem from="1537090416812" duration="17463000" />
-      <workItem from="1537116904409" duration="524000" />
+      <workItem from="1537116904409" duration="889000" />
+      <workItem from="1537117851975" duration="366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17987000" />
+    <option name="totallyTimeSpent" value="18718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,7 +300,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14857745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14857745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -290,7 +313,7 @@
       <window_info anchor="bottom" id="Tail" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32992035" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.26848692" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26848692" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,13 +425,6 @@
     <entry file="file://$PROJECT_DIR$/src/img/o4.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="856">
@@ -416,27 +432,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/my.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-520">
-          <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="35112">
           <caret line="1672" column="1" selection-start-line="1672" selection-start-column="1" selection-end-line="1672" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/my.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash.exe.stackdump">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2022">
-          <caret line="685" column="36" lean-forward="true" selection-start-line="685" selection-start-column="36" selection-end-line="685" selection-end-column="36" />
+        <state relative-caret-position="535">
+          <caret line="685" column="36" selection-start-line="685" selection-start-column="36" selection-end-line="685" selection-end-column="36" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
